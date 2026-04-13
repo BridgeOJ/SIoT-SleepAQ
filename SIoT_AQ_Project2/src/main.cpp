@@ -16,7 +16,7 @@ const char* ssid = "";
 const char* password = "";
 
 // ThingSpeak setup
-String apiKey = "SLB4JGCEAOZA1T8I";
+String apiKey = "";
 const char* tsServer = "http://api.thingspeak.com/update";
 
 SensirionI2CSen5x sen5x;
