@@ -12,8 +12,8 @@
 //const char* ssid = "EE-Mini-Hub-1889-2.4GHz";
 //const char* password = "GRNRhED3ATbq";
 
-const char* ssid = "Ollie";
-const char* password = "ankeside";
+const char* ssid = "";
+const char* password = "";
 
 // ThingSpeak setup
 String apiKey = "SLB4JGCEAOZA1T8I";
